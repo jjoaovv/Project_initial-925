@@ -1,2 +1,7 @@
-# Project_initial-925
-gellow 
+//# Project_initial-925
+
+int main() {
+
+  printf(" Hellow Wolrd!");
+
+}
